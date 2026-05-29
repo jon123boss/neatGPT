@@ -1,4 +1,4 @@
 torch>=2.12.0
 einops
 numpy
-flash-attn-4
+flash-attn-4[cu13]
